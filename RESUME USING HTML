@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+        <h3> my resume</h3>
+        </title>
+        <style>
+          
+        </style>
+    </head>
+   <body bgcolor="azure">
+<h2 style="color:rgb(26, 117, 236) ;"> NILESH CHAVAN </h2>
+<h3> software developer </h3>
+<h2 style="color:rgb(26, 117, 236) ;"> ABOUT ME </h2>
+<p1 style="color:rgb(17, 20, 21) ;"> I am Nilesh Chavan diomg my B.TECH <br>
+ in GOVERMENT COLLEGE OF ENGINEERING<br>
+ Amravati from INFORMATION TECHNOLOGY field. 
+</p1>
+<h2 style="color:rgb(26, 117, 236) ;"> CONTACT </h2>
+<ul>
+<li> 9579489593</li>
+<li> nilesh2003chavan@gmail.com </li>
+<li> maharastra </li>
+</ul>
+<h2 style="color:rgb(26, 117, 236) ;"> SOCIAL MEDIA </h2>
+<ul>
+<li><a href="https://github.com/Nilesh2925">GITHUB</a></li>
+<li><a href="https://www.linkedin.com/in/nilesh-chavan-76a701233/">linkedin</a></li>
+<li><a href="https://leetcode.com/Nileshchavan/">LEETCODE</a></li>
+</ul>
+<h2 style="color:rgb(26, 117, 236) ;"> SKILLS </h2>
+<ul>
+<li>CPP</li>
+<li>C</li>
+<li>DSA</li>
+<li>PYTHON</li>
+<li>HTML</li>
+<li>SQL</li>
+<li>CSS</li>
+<li>DBMS</li>
+<li>OS</li>
+</ul>
+<h2 style="color:rgb(26, 117, 236) ;"> EDUCATION </h2>
+<p1 style="color:rgb(4, 4, 4) ;">GOVERMENT COLLEGE OF ENGINEERING (GCOEA) AMRAVATI <br>
+    2021 - Present<br>
+    B.Tech-Information Technology</p1>
+    <hr>
+<h2 style="color:rgb(26, 117, 236) ;">ACHIEVEMENTS</h2>
+<p1 style="color:rgb(13, 16, 16) ;">five star coder at HakerRank in C and C++ language.</p1>
+    </body>
+</html>
